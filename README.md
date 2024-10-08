@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CSteinkampf
 - 👀 I’m interested in backend development  
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me LinkedIn or social media!
+- 📫 Feel free to reach out through Chris Steinkampf on LinkedIn or my website: https://www.chrissteinkampfsound.com/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got into programming through working as a sound designer on games!
 
