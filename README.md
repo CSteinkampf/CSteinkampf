@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @CSteinkampf
-- 👀 I’m interested in backend development  
-- 🌱 I’m currently learning Python and SQL
-- 📫 Feel free to reach out through Chris Steinkampf on LinkedIn or my website: https://www.chrissteinkampfsound.com/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I got into programming through working as a sound designer on games!
+- Hi, I’m @CSteinkampf, a sound designer working on video games!
+- Feel free to reach out through Chris Steinkampf on LinkedIn or my website: https://www.chrissteinkampfsound.com/
+- Pronouns: He/Him
 
 <!---
 CSteinkampf/CSteinkampf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
